@@ -1,6 +1,12 @@
-<img align="right" src="/SE450-Github.png" width="200"/>
+<img align="left" src="/SE450-Github.png" width="200"/>
 
 <img align="right" src="/SE350-Github.png" width="200"/>
+
+
+<br/><br/>
+<br/><br/>
+
+---
 
 # :closed_book:	 Object-oriented Software Development
 #### :hourglass:	Spring 2023 
